@@ -5,7 +5,7 @@
 ![Whisper](https://img.shields.io/badge/whisper-000000?style=for-the-badge&logo=whisper&logoColor=white)
 ![GoogleColab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
-![GIF_analysis](link-para-imagem-ou-video)
+![Img1](./assets/Tela1.png)
 
 ## 📕 Descrição
 
