@@ -15,7 +15,7 @@ Este projeto é um analisador de vídeos do YouTube que utiliza o modelo Whisper
 
 > [!TIP]
 > **Você pode acessar o projeto no:** 
-> [Google Colab](https://colab.research.google.com/drive/1Tq4ZLGE4JCwrDgRs6JR7OXrsVQX7Vz--?usp=sharing)
+> <a href="https://colab.research.google.com/drive/1Tq4ZLGE4JCwrDgRs6JR7OXrsVQX7Vz--?usp=sharing" target="_blank">Google Colab</a>.
 > 
 
 ## ⚙️ Funcionalidades
