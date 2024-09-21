@@ -3,12 +3,20 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Whisper](https://img.shields.io/badge/whisper-000000?style=for-the-badge&logo=whisper&logoColor=white)
+![GoogleColab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 ![GIF_analysis](link-para-imagem-ou-video)
 
 ## 📕 Descrição
 
 Este projeto é um analisador de vídeos do YouTube que utiliza o modelo Whisper para transcrever o áudio dos vídeos e, em seguida, gerar um resumo da transcrição. É uma ferramenta útil para quem deseja extrair informações de vídeos de forma rápida e eficiente.
+
+**🔧 Este projeto está em construção!** Funcionalidades e melhorias estão sendo implementadas.
+
+> [!TIP]
+> **Você pode acessar o projeto no:** 
+> [Google Colab](https://colab.research.google.com/drive/1Tq4ZLGE4JCwrDgRs6JR7OXrsVQX7Vz--?usp=sharing)
+> 
 
 ## ⚙️ Funcionalidades
 
@@ -31,13 +39,16 @@ Esse fluxo de trabalho permite que usuários extraiam informações valiosas de 
 
 ## 💻 Pré-requisitos
 
-Certifique-se de ter o Python instalado em seu ambiente de desenvolvimento. Além disso, você precisará da biblioteca `whisper` e `pytube`. Você pode instalar as bibliotecas usando os seguintes comandos:
-> [!TIP]
-> Instale as bibliotecas necessárias
-> Abra o terminal ou o cmd e digite:
-> ~~~
-> pip install whisper pytube
-> ~~~
+Certifique-se de ter o Python instalado. Você pode instalar as dependências usando o arquivo `requirements.txt`.
+
+### 📦 Instalação de Dependências
+
+1. Clone o repositório para o seu ambiente local.
+2. Navegue até o diretório do projeto.
+3. Execute o seguinte comando:
+~~~ 
+pip install -r requirements.txt
+~~~
 
 ## 🎮 Como Usar
 

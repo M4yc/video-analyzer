@@ -1,0 +1,4 @@
+transformers
+ffmpeg-python
+pytubefix
+whisper
