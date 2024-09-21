@@ -5,7 +5,7 @@ import sys
 import os
 
 # Configure a chave de API do OpenAI
-api_key = "sk-b-EchWWZZTXC_JdpDo1NhTzE0eL3fZT_i_i8S8dn3oT3BlbkFJtynFmyDF1T4qzrFfmOUI2frHLVgS8rv-_sj5m81usA"
+api_key = "####"
 openai.api_key = api_key
 
 # Função para baixar o áudio do YouTube

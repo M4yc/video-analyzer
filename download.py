@@ -1,8 +1,8 @@
-import openai
+
 import ffmpeg
 import pytubefix
 import sys
-import os
+
 
 
 # Função para baixar o áudio do YouTube
